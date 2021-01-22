@@ -8,6 +8,8 @@
     "build": "netlify-lambda build functions"
   },
   "dependencies": {
+    "imagemin": "^7.0.1",
+    "imagemin-webp": "^6.0.0",
     "netlify-lambda": "^1.6.3",
     "node-fetch": "^2.6.1",
     "sharp": "^0.27.0"

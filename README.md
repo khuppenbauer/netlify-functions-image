@@ -1,2 +1,2 @@
-# netlify-functions-boilerplate
-Boilerplate package for netlify functions
+# netlify-functions-image
+Image processing functions
