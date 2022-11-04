@@ -8,11 +8,8 @@
     "build": "netlify-lambda build functions"
   },
   "dependencies": {
+    "canvas": "^2.10.2",
     "encoding": "^0.1.13",
-    "imagemin": "^7.0.1",
-    "imagemin-webp": "^6.0.0",
-    "netlify-lambda": "^1.6.3",
-    "node-fetch": "^2.6.1",
-    "sharp": "^0.27.0"
+    "netlify-lambda": "^1.6.3"
   }
 }
